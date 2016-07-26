@@ -1,6 +1,5 @@
  Pod::Spec.new do |s|
-  s.name         = "MosaicHYB"
-  s.version      = "1.0.0"
+  s.name         = "Harpy"
   s.summary      = "combine Mosaiclayout with HYBScrollView"
   s.homepage     = "https://github.com/gooulin/MosaicLayoutWithHYBScrollView"
   s.platform     = :ios, '8.0'  
