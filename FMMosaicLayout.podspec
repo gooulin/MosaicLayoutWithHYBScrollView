@@ -16,5 +16,5 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   s.source_files = 'FMMosaicLayout'
-  s.resources    = 'FMMosaicLayout/*.{storyboard,xib}'
+  s.resources    = 'FMMosaicLayout/Storyboard.bundle'
 end
