@@ -17,4 +17,7 @@ Pod::Spec.new do |s|
 
   s.source_files = 'FMMosaicLayout'
   s.resources    = 'FMMosaicLayout/Storyboard.bundle'
+  s.resource_bundles = {
+      'FMMosaicLayout' => ['FMMosaicLayout/Storyboard.bundle'],
+  }
 end
